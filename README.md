@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul  9 22:21:35 2024
-
-@author: kronemersi
-"""
-
 # DOCUMENTATION FOR KRONEMER ET AL. NEUROSCIENCE OF CONSCIOUSNESS 2024
 
 ## DATA
