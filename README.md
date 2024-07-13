@@ -1,24 +1,24 @@
-# DOCUMENTATION FOR KRONEMER ET AL., NEUROSCIENCE OF CONSCIOUSNESS 2024
+# DOCUMENTATION FOR KRONEMER ET AL., NEUROSCIENCE OF CONSCIOUSNESS, 2024
 
-# RAW DATA
+## RAW DATA
 
-1. Participant information.xls
+1. Participant_Information.xlsx: Summary of participant demographic information.
 
-3. Behavioral files (.txt, .log, .xls)
+3. Behavioral files (.txt, .log, .xls): Output behavioral files from the afterimage task that are used in subsequent behavioral analyses.
 
-4. VVIQ (.pdf)
+4. Vividness of Visual Imagery Questionnaire (VVIQ; .pdf): PDF file with participant responses to the VVIQ.
 
-# PROCESSED DATA
+## PROCESSED DATA
 
 1. Participant_Afterimage_Image_VVIQ_Data.xlsx; these data are created after running the behavioral analysis script Afterimage_task_behavioral_analysis_v4.m.
 
-# CODE
+## CODE
 
-1. Behavioral analysis (Afterimage_task_behavioral_analysis_v4.m)
+1. Behavioral analysis (Afterimage_task_behavioral_analysis_v4.m): analyzes subject behavioral files and creates subject-level figures and matrices of all subject results. The output of these behavioral analyses are stored in Participant_Afterimage_Image_VVIQ_Data.xlsx. 
 
-2. Bootstrapped (Afterimage_vs_VVIQ_bootstrapping_analysis.m)
+2. Bootstrapping analysis (Afterimage_vs_VVIQ_bootstrapping_analysis.m): reads data from Participant_Afterimage_Image_VVIQ_Data.xlsx and performs a bootstrap analysis on image and afterimage sharpness, contrast, and duration and creates summary figures used in Figure 3 (see details below).
 
-# FIGURES
+## FIGURES
 
 ## Figure 1
 Created with Illustrator (Adobe Inc.). See Kronemer et al., 2024 Methods section for details on stimulus source, parameters, and task phases.
@@ -27,9 +27,9 @@ Created with Illustrator (Adobe Inc.). See Kronemer et al., 2024 Methods section
 All figure subplots and statistical analyses were made in Prism (GraphPad Inc.) and edited in Illustrator (Adobe Inc.). See Kronemer et al., 2024 Methods section for details on statistical analysis. Source data found in Participant_Afterimage_Image_VVIQ_Data.xlsx: Figure 2A Afterimage Perecption Rate column; Figure 2B VVIQ Score (sum) column; Figure 2C True Minus Selected Image Sharpness and Afterimage Sharpness columns; Figure 2D True Minus Selected Image Contrast and Afterimage Contrast columns; Figure 2E True Minus Selected Image Duration and Afterimage Duration columns.
 
 ## Figure 3
-Figure 3A,B,D,E,G, and H subplots and statistical analyses were made in Prism (GraphPad Inc.) and edited in Illustrator (Adobe Inc.). See Kronemer et al., 2024 Methods section for details on statistical analysis. Source data found in  Figure 3A and B 
+Figure 3A,B,D,E,G, and H subplots and statistical analyses were made in Prism (GraphPad Inc.) and edited in Illustrator (Adobe Inc.). See Kronemer et al., 2024 Methods section for details on statistical analysis. Source data found in Participant_Afterimage_Image_VVIQ_Data.xlsx; Figure 3A and B correlation between VVIQ Score (sum) column and Image Contrast/Afterimage Contrast columns, respectively; Figure 3D and E correlation between VVIQ Score (sum) column and Image Sharpness/Afterimage Sharpness columns, respectively; Figure 3G and H correlation between VVIQ Score (sum) column and Image Duration/Afterimage Duration columns, respectively.
 
-C,F, and I were created by running Afterimage_vs_VVIQ_bootstrapping_analysis.m and edited in Illustrator (Adobe, Inc.).
+Figure 3C,F, and I were created by running the script Afterimage_vs_VVIQ_bootstrapping_analysis.m and edited in Illustrator (Adobe Inc.).
 
 ## Figure 4
 Created with Illustrator (Adobe Inc.)
