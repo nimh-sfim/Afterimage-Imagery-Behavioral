@@ -6,7 +6,7 @@ The following information details the data sources, analysis scripts, and visual
 
 1. Participant_Information.xlsx: Summary of participant demographic information.
 
-3. Behavioral files (.txt, .log, .xls): Output behavioral files from the afterimage task that are used in subsequent behavioral analyses.
+3. Behavioral files (.txt, .log, .xls): Output behavioral files from the afterimage task that are used in subsequent behavioral analyses. Note that the behavioral files include Afterimage_Matching and Main_Experiment task phases that were not analyzed in Kronemer et al.
 
 4. Vividness of Visual Imagery Questionnaire (VVIQ; .pdf): PDF file with participant responses to the VVIQ (scored manually on a scale of 1-5).
 
