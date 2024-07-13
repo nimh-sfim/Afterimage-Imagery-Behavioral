@@ -29,9 +29,9 @@ Created with Illustrator (Adobe Inc.). See Kronemer et al., 2024 Methods section
 All figure subplots and statistical analyses were made in Prism (GraphPad Inc.) and edited in Illustrator (Adobe Inc.). See Kronemer et al., 2024 Methods section for details on statistical analysis. Source data found in Participant_Afterimage_Image_VVIQ_Data.xlsx: Figure 2A Afterimage Perecption Rate column; Figure 2B VVIQ Score (sum) column; Figure 2C True Minus Selected Image Sharpness and Afterimage Sharpness columns; Figure 2D True Minus Selected Image Contrast and Afterimage Contrast columns; Figure 2E True Minus Selected Image Duration and Afterimage Duration columns.
 
 ## Figure 3
-Figure 3A,B,D,E,G, and H subplots and statistical analyses were made in Prism (GraphPad Inc.) and edited in Illustrator (Adobe Inc.). See Kronemer et al., 2024 Methods section for details on statistical analysis. Source data found in Participant_Afterimage_Image_VVIQ_Data.xlsx; Figure 3A and B correlation between VVIQ Score (sum) column and Image Contrast/Afterimage Contrast columns, respectively; Figure 3D and E correlation between VVIQ Score (sum) column and Image Sharpness/Afterimage Sharpness columns, respectively; Figure 3G and H correlation between VVIQ Score (sum) column and Image Duration/Afterimage Duration columns, respectively.
+Figure 3A, B, D, E, G, and H subplots and statistical analyses were made in Prism (GraphPad Inc.) and edited in Illustrator (Adobe Inc.). See Kronemer et al., 2024 Methods section for details on statistical analysis. Source data found in Participant_Afterimage_Image_VVIQ_Data.xlsx; Figure 3A and B correlation between VVIQ Score (sum) column and Image Contrast/Afterimage Contrast columns, respectively; Figure 3D and E correlation between VVIQ Score (sum) column and Image Sharpness/Afterimage Sharpness columns, respectively; Figure 3G and H correlation between VVIQ Score (sum) column and Image Duration/Afterimage Duration columns, respectively.
 
-Figure 3C,F, and I were created by running the script Afterimage_vs_VVIQ_bootstrapping_analysis.m and edited in Illustrator (Adobe Inc.).
+Figure 3C, F, and I were created by running the script Afterimage_vs_VVIQ_bootstrapping_analysis.m and edited in Illustrator (Adobe Inc.).
 
 ## Figure 4
 Values calculated in Prism (GraphPad Inc.) and images created with Illustrator (Adobe Inc.)
