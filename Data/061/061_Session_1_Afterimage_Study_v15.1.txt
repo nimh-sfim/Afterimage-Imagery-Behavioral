@@ -1,0 +1,182 @@
+Task_Type	Trial_Number	Target_Location	Pre_Stimulus_Time	Post_Stimulus_Time	Trial_Min_Blur_Value	Selected_Blur_Value
+Real_Blur	1	[12, 0]	8	11	15	12
+Real_Blur	2	[-12, 0]	8	10	10	23
+Real_Blur	3	[12, 0]	6	11	10	9
+Real_Blur	4	[-12, 0]	8	11	5	8
+Real_Blur	5	[-12, 0]	8	11	5	4
+Real_Blur	6	[-12, 0]	8	11	10	9
+Real_Blur	7	[12, 0]	7	12	10	15
+Real_Blur	8	[-12, 0]	6	12	10	11
+Real_Blur	9	[12, 0]	8	10	10	7
+Real_Blur	10	[12, 0]	6	10	15	23
+Real_Blur	11	[12, 0]	7	11	15	13
+Real_Blur	12	[-12, 0]	6	10	15	11
+Real_Blur	13	[-12, 0]	8	10	10	8
+Real_Blur	14	[-12, 0]	7	11	15	13
+Real_Blur	15	[-12, 0]	6	11	5	5
+Real_Blur	16	[12, 0]	7	12	10	0
+Real_Blur	17	[-12, 0]	8	10	5	8
+Real_Blur	18	[12, 0]	7	10	10	9
+Real_Blur	19	[12, 0]	6	12	15	9
+Real_Blur	20	[12, 0]	7	10	5	4
+Task_Type	Trial_Number	Target_Location	Pre_Stimulus_Time	Post_Stimulus_Time	Selected_Blur_Value
+Afterimage_Blur	1	[-12, 0]	6	11	8
+Afterimage_Blur	2	[-12, 0]	8	10	11
+Afterimage_Blur	3	[-12, 0]	7	12	8
+Afterimage_Blur	4	[-12, 0]	6	10	10
+Afterimage_Blur	5	[12, 0]	8	10	14
+Afterimage_Blur	6	[-12, 0]	6	12	[]
+Afterimage_Blur	7	[12, 0]	7	10	15
+Afterimage_Blur	8	[-12, 0]	6	10	10
+Afterimage_Blur	9	[12, 0]	6	11	17
+Afterimage_Blur	10	[12, 0]	8	11	9
+Afterimage_Blur	11	[-12, 0]	6	12	8
+Afterimage_Blur	12	[12, 0]	7	10	7
+Afterimage_Blur	13	[12, 0]	7	11	7
+Afterimage_Blur	14	[-12, 0]	6	10	9
+Afterimage_Blur	15	[12, 0]	7	12	7
+Afterimage_Blur	16	[12, 0]	6	12	6
+Afterimage_Blur	17	[-12, 0]	7	12	13
+Afterimage_Blur	18	[-12, 0]	6	10	8
+Afterimage_Blur	19	[12, 0]	7	12	11
+Afterimage_Blur	20	[12, 0]	6	12	9
+Afterimage_Blur	21	[-12, 0]	6	12	16
+Afterimage_Blur	22	[-12, 0]	7	12	13
+Afterimage_Blur	23	[12, 0]	7	11	11
+Afterimage_Blur	24	[-12, 0]	8	12	15
+Afterimage_Blur	25	[-12, 0]	7	10	13
+Afterimage_Blur	26	[12, 0]	8	12	9
+Afterimage_Blur	27	[12, 0]	7	12	6
+Afterimage_Blur	28	[12, 0]	6	11	8
+Afterimage_Blur	29	[-12, 0]	6	11	16
+Afterimage_Blur	30	[12, 0]	8	11	8
+Task_Type	Trial_Number	Target_Location	Pre_Stimulus_Time
+Real_Contrast	1	[12, 0]	8
+Real_Contrast	2	[-12, 0]	7
+Real_Contrast	3	[12, 0]	8
+Real_Contrast	4	[-12, 0]	7
+Real_Contrast	5	[12, 0]	7
+Real_Contrast	6	[12, 0]	8
+Real_Contrast	7	[12, 0]	6
+Real_Contrast	8	[-12, 0]	6
+Real_Contrast	9	[-12, 0]	8
+Real_Contrast	10	[-12, 0]	8
+Real_Contrast	11	[12, 0]	6
+Real_Contrast	12	[-12, 0]	6
+Real_Contrast	13	[12, 0]	7
+Real_Contrast	14	[-12, 0]	6
+Real_Contrast	15	[12, 0]	7
+Real_Contrast	16	[12, 0]	7
+Real_Contrast	17	[-12, 0]	6
+Real_Contrast	18	[-12, 0]	6
+Task_Type	Trial_Number	Target_Location	Pre_Stimulus_Time	Post_Stimulus_Time	Afterimage_Start	Afterimage_Duration
+Afterimage_Contrast	1	[12.  0.]	8	10	0.8073929140000473	3.7992002580003827
+Afterimage_Contrast	2	[-12.   0.]	6	10	1.3577840429998105	4.882661018000363
+Afterimage_Contrast	3	[-12.   0.]	7	10	2.3080855920006798	3.0323805929992886
+Afterimage_Contrast	4	[12.  0.]	8	10	1.5259582550006598	3.949486349999461
+Afterimage_Contrast	5	[12.  0.]	6	10	1.6257284850007636	3.7663475169993035
+Afterimage_Contrast	6	[-12.   0.]	8	11	1.0252394109993475	5.08271833300023
+Afterimage_Contrast	7	[12.  0.]	7	10	0.6914385230002154	3.7829857110000376
+Afterimage_Contrast	8	[-12.   0.]	7	11	1.6240662870004599	5.015961344999596
+Afterimage_Contrast	9	[-12.   0.]	6	11	0.4253287379997346	4.965967778000049
+Afterimage_Contrast	10	[-12.   0.]	8	11	1.824071448999348	3.7324147760000415
+Afterimage_Contrast	11	[-12.   0.]	7	12	0.110874056999819	5.982429595999747
+Afterimage_Contrast	12	[-12.   0.]	7	11	0.5921795140002359	3.9992940289994294
+Afterimage_Contrast	13	[12.  0.]	8	10	1.408843600000182	3.6655979360002675
+Afterimage_Contrast	14	[-12.   0.]	7	12	0.5598205160004	3.9826607529994362
+Afterimage_Contrast	15	[12.  0.]	8	12	1.6265218879998429	5.166027252000276
+Afterimage_Contrast	16	[-12.   0.]	6	12	0.05998160399940389	4.865603303000171
+Afterimage_Contrast	17	[12.  0.]	7	10	2.0422092239996346	3.382493484000406
+Afterimage_Contrast	18	[-12.   0.]	6	10	1.6761894150004082	3.6664467909995437
+Afterimage_Contrast	19	[12.  0.]	7	10	1.0919715520003592	4.381314905999716
+Afterimage_Contrast	20	[12.  0.]	6	12	1.3264568849999705	4.232491440000558
+Afterimage_Contrast	21	[12.  0.]	6	10	1.9245292400000835	4.765731917999801
+Afterimage_Contrast	22	[-12.   0.]	6	11	0.8594436769999447	4.432735085000786
+Afterimage_Contrast	23	[12.  0.]	8	12	0.7766383159996622	4.5326385110001866
+Afterimage_Contrast	24	[-12.   0.]	6	12	1.2417202120004731	4.581286976999763
+Afterimage_Contrast	25	[-12.   0.]	8	12	2.9735680019994106	2.499935277000077
+Afterimage_Contrast	26	[12.  0.]	8	11	1.0770669610001278	3.630487708000146
+Afterimage_Contrast	27	[12.  0.]	6	10	1.056511818999752	5.267173901000206
+Afterimage_Contrast	28	[12.  0.]	6	11	1.524899226999878	3.53250273499998
+Afterimage_Contrast	29	[12.  0.]	6	10	0.6263682489998246	6.047723224999572
+Afterimage_Contrast	30	[-12.   0.]	8	12	1.907861170000615	3.2661338019997856
+Afterimage_Contrast	31	[-12.   0.]	8	12	1.4920724490002613	3.932721818000573
+Afterimage_Contrast	32	[12.  0.]	7	12	1.0918046320002759	4.065803047999907
+Afterimage_Contrast	33	[-12.   0.]	8	12	1.0584902119999242	4.766274653999972
+Afterimage_Contrast	34	[-12.   0.]	8	11	1.6912006910006312	4.516119941999932
+Afterimage_Contrast	35	[-12.   0.]	6	10	1.0751603189992238	3.7332827820000603
+Afterimage_Contrast	36	[12.  0.]	8	11	1.0416281990001153	4.11640356099997
+Afterimage_Contrast	37	[12.  0.]	7	11	1.2582266469999013	3.9507220290006444
+Afterimage_Contrast	38	[12.  0.]	7	11	0.09359471399966424	6.014039815000615
+Afterimage_Contrast	39	[-12.   0.]	7	11	1.3912893979995715	3.5822668910004722
+Afterimage_Contrast	40	[-12.   0.]	6	11	0.9427106910006842	4.332956083999306
+Afterimage_Contrast	41	[-12.   0.]	8	10	0.6411283390007156	3.5661566319995472
+Afterimage_Contrast	42	[12.  0.]	7	10	1.7932477959993776	2.8491188580001108
+Afterimage_Contrast	43	[12.  0.]	7	12	1.9572645159996682	3.0994633330001307
+Afterimage_Contrast	44	[-12.   0.]	8	12	1.3908018980000634	4.115994802999921
+Afterimage_Contrast	45	[12.  0.]	6	12	1.2904130220003935	4.298015942000347
+Afterimage_Contrast	46	[12.  0.]	7	12	1.5251421009998012	5.182576563999646
+Afterimage_Contrast	47	[-12.   0.]	6	10	1.8556093260003763	4.434186991999923
+Afterimage_Contrast	48	[12.  0.]	6	10	0.8913303110002744	4.099789292000423
+Afterimage_Contrast	49	[12.  0.]	7	11	1.5403548829999636	3.299511643000187
+Afterimage_Contrast	50	[12.  0.]	8	11	0.6251398540007358	5.29705199899945
+Afterimage_Contrast	51	[12.  0.]	8	11	1.2916297399997347	4.432150545000695
+Afterimage_Contrast	52	[-12.   0.]	8	11	1.5581763500003945	3.917281119999643
+Afterimage_Contrast	53	[-12.   0.]	7	10	0.9735016550002911	4.782290766999722
+Afterimage_Contrast	54	[-12.   0.]	7	12	1.7581131619999724	3.6497353050008314
+Afterimage_Contrast	55	[12.  0.]	6	11	1.7247214310000345	2.99931209100032
+Afterimage_Contrast	56	[12.  0.]	7	11	1.4078834250003638	3.2491257419997055
+Afterimage_Contrast	57	[12.  0.]	8	10	1.3568727889996808	4.01569936299984
+Afterimage_Contrast	58	[-12.   0.]	6	11	1.0736288000007335	3.832591506999961
+Afterimage_Contrast	59	[-12.   0.]	6	12	1.1583319839992328	3.999335580000661
+Afterimage_Contrast	60	[-12.   0.]	7	12	0.9915465049998602	3.133114562000628
+Task_Type	Trial_Number	Trial_Condition	Afterimage_Present	Target_Location	Pre_Stimulus_Time	Post_Stimulus_Time	Question_Response
+Afterimage_Matching	1	1	1	[-12, 0]	8	12	3
+Afterimage_Matching	2	4	0	[-12, 0]	6	12	4
+Afterimage_Matching	3	1	1	[12, 0]	7	11	3
+Afterimage_Matching	4	4	0	[12, 0]	7	10	4
+Afterimage_Matching	5	1	1	[-12, 0]	7	10	3
+Afterimage_Matching	6	1	0	[12, 0]	8	10	2
+Afterimage_Matching	7	4	0	[12, 0]	8	11	4
+Afterimage_Matching	8	4	0	[-12, 0]	8	12	4
+Afterimage_Matching	9	1	1	[-12, 0]	7	11	3
+Afterimage_Matching	10	4	0	[12, 0]	6	12	4
+Afterimage_Matching	11	4	0	[-12, 0]	8	11	4
+Afterimage_Matching	12	1	0	[12, 0]	8	10	2
+Afterimage_Matching	13	1	1	[12, 0]	8	11	3
+Afterimage_Matching	14	1	0	[-12, 0]	7	10	1
+Afterimage_Matching	15	1	0	[-12, 0]	6	10	1
+Afterimage_Matching	16	1	1	[12, 0]	7	11	3
+Afterimage_Matching	17	1	0	[12, 0]	8	11	2
+Afterimage_Matching	18	1	1	[-12, 0]	8	10	3
+Afterimage_Matching	19	4	0	[-12, 0]	7	12	4
+Afterimage_Matching	20	1	0	[-12, 0]	8	12	1
+Afterimage_Matching	21	4	0	[-12, 0]	7	12	4
+Afterimage_Matching	22	1	1	[12, 0]	6	10	3
+Afterimage_Matching	23	4	0	[12, 0]	7	11	4
+Afterimage_Matching	24	4	0	[12, 0]	6	11	4
+Afterimage_Matching	25	1	0	[12, 0]	8	12	2
+Afterimage_Matching	26	4	0	[-12, 0]	8	10	4
+Afterimage_Matching	27	4	0	[12, 0]	8	12	4
+Afterimage_Matching	28	1	0	[-12, 0]	6	12	1
+Afterimage_Matching	29	1	0	[-12, 0]	7	10	1
+Afterimage_Matching	30	1	0	[-12, 0]	7	10	1
+Afterimage_Matching	31	1	0	[12, 0]	8	10	2
+Afterimage_Matching	32	1	1	[12, 0]	8	11	3
+Afterimage_Matching	33	1	1	[12, 0]	8	12	3
+Afterimage_Matching	34	1	0	[12, 0]	8	11	2
+Afterimage_Matching	35	4	0	[-12, 0]	8	10	4
+Afterimage_Matching	36	1	1	[-12, 0]	8	12	3
+Afterimage_Matching	37	4	0	[12, 0]	6	10	4
+Afterimage_Matching	38	1	0	[-12, 0]	7	11	1
+Afterimage_Matching	39	4	0	[-12, 0]	6	11	4
+Afterimage_Matching	40	1	1	[-12, 0]	6	12	3
+Afterimage_Matching	41	1	0	[-12, 0]	6	12	1
+Afterimage_Matching	42	1	1	[-12, 0]	7	11	3
+Afterimage_Matching	43	1	1	[12, 0]	7	11	3
+Afterimage_Matching	44	4	0	[12, 0]	8	12	4
+Afterimage_Matching	45	1	1	[12, 0]	8	12	3
+Afterimage_Matching	46	1	1	[12, 0]	8	12	3
+Afterimage_Matching	47	1	1	[-12, 0]	7	12	3
+Afterimage_Matching	48	1	0	[12, 0]	6	12	2
+Task_Type	Block_Number	Trial_Number	Trial_Condition	Afterimage_Present	Target_Location	Pre_Stimulus_Time	Post_Stimulus_Time	Afterimage_Onset	Afterimage_Offset

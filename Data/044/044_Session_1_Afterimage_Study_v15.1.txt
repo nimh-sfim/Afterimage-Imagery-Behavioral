@@ -1,0 +1,71 @@
+Task_Type	Trial_Number	Target_Location	Pre_Stimulus_Time	Post_Stimulus_Time	Trial_Min_Blur_Value	Selected_Blur_Value
+Real_Blur	1	[-12, 0]	7	12	5	4
+Real_Blur	2	[-12, 0]	8	11	15	17
+Real_Blur	3	[-12, 0]	6	11	5	4
+Real_Blur	4	[12, 0]	8	12	5	2
+Real_Blur	5	[12, 0]	6	12	15	7
+Real_Blur	6	[-12, 0]	7	11	15	13
+Real_Blur	7	[-12, 0]	8	10	10	7
+Real_Blur	8	[12, 0]	7	11	15	12
+Real_Blur	9	[12, 0]	8	11	10	9
+Real_Blur	10	[-12, 0]	7	12	10	8
+Real_Blur	11	[-12, 0]	8	10	10	4
+Real_Blur	12	[12, 0]	6	10	10	3
+Real_Blur	13	[12, 0]	7	10	5	4
+Real_Blur	14	[-12, 0]	6	10	5	1
+Real_Blur	15	[12, 0]	7	11	5	1
+Real_Blur	16	[12, 0]	8	12	5	2
+Real_Blur	17	[12, 0]	7	12	15	9
+Real_Blur	18	[-12, 0]	8	12	10	13
+Real_Blur	19	[12, 0]	6	10	15	14
+Real_Blur	20	[12, 0]	8	11	5	2
+Task_Type	Trial_Number	Target_Location	Pre_Stimulus_Time	Post_Stimulus_Time	Selected_Blur_Value
+Afterimage_Blur	1	[12, 0]	6	11	9
+Afterimage_Blur	2	[-12, 0]	8	10	8
+Afterimage_Blur	3	[12, 0]	8	10	10
+Afterimage_Blur	4	[-12, 0]	8	10	[]
+Afterimage_Blur	5	[12, 0]	6	12	13
+Afterimage_Blur	6	[12, 0]	6	11	15
+Afterimage_Blur	7	[-12, 0]	8	10	12
+Afterimage_Blur	8	[-12, 0]	6	12	15
+Afterimage_Blur	9	[-12, 0]	8	12	8
+Afterimage_Blur	10	[12, 0]	6	11	13
+Afterimage_Blur	11	[12, 0]	7	11	13
+Afterimage_Blur	12	[-12, 0]	7	10	15
+Afterimage_Blur	13	[12, 0]	6	10	19
+Afterimage_Blur	14	[12, 0]	8	12	12
+Afterimage_Blur	15	[-12, 0]	6	12	16
+Afterimage_Blur	16	[-12, 0]	7	11	16
+Afterimage_Blur	17	[-12, 0]	7	12	14
+Afterimage_Blur	18	[12, 0]	8	10	15
+Afterimage_Blur	19	[-12, 0]	6	10	15
+Afterimage_Blur	20	[-12, 0]	7	11	18
+Afterimage_Blur	21	[12, 0]	6	10	6
+Afterimage_Blur	22	[12, 0]	8	12	16
+Afterimage_Blur	23	[12, 0]	8	10	18
+Afterimage_Blur	24	[-12, 0]	8	12	15
+Afterimage_Blur	25	[12, 0]	7	10	14
+Afterimage_Blur	26	[-12, 0]	7	10	14
+Afterimage_Blur	27	[12, 0]	7	11	16
+Afterimage_Blur	28	[-12, 0]	6	12	13
+Afterimage_Blur	29	[12, 0]	6	12	9
+Afterimage_Blur	30	[-12, 0]	7	11	12
+Task_Type	Trial_Number	Target_Location	Pre_Stimulus_Time
+Real_Contrast	1	[-12, 0]	8
+Real_Contrast	2	[12, 0]	6
+Real_Contrast	3	[-12, 0]	8
+Real_Contrast	4	[12, 0]	7
+Real_Contrast	5	[12, 0]	6
+Real_Contrast	6	[-12, 0]	6
+Real_Contrast	7	[12, 0]	8
+Real_Contrast	8	[12, 0]	7
+Real_Contrast	9	[-12, 0]	8
+Real_Contrast	10	[-12, 0]	6
+Real_Contrast	11	[12, 0]	8
+Real_Contrast	12	[-12, 0]	8
+Real_Contrast	13	[12, 0]	6
+Real_Contrast	14	[12, 0]	8
+Real_Contrast	15	[-12, 0]	8
+Real_Contrast	16	[-12, 0]	8
+Real_Contrast	17	[12, 0]	6
+Real_Contrast	18	[-12, 0]	6
