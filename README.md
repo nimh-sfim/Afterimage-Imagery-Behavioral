@@ -1,12 +1,14 @@
 # DOCUMENTATION FOR KRONEMER ET AL., NEUROSCIENCE OF CONSCIOUSNESS, 2024
 
+The following information details the data sources, analysis scripts, and visualization methods for the results and figures presented in Kronemer et al., Neuroscience of Consciousness, 2024. Full methods and statistical analyses details are written in the Kronemer et al., 2024 Methods and Statistical Analyses sections.
+
 ## RAW DATA
 
 1. Participant_Information.xlsx: Summary of participant demographic information.
 
 3. Behavioral files (.txt, .log, .xls): Output behavioral files from the afterimage task that are used in subsequent behavioral analyses.
 
-4. Vividness of Visual Imagery Questionnaire (VVIQ; .pdf): PDF file with participant responses to the VVIQ.
+4. Vividness of Visual Imagery Questionnaire (VVIQ; .pdf): PDF file with participant responses to the VVIQ (scored manually on a scale of 1-5).
 
 ## PROCESSED DATA
 
