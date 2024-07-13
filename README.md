@@ -32,4 +32,4 @@ Figure 3A,B,D,E,G, and H subplots and statistical analyses were made in Prism (G
 Figure 3C,F, and I were created by running the script Afterimage_vs_VVIQ_bootstrapping_analysis.m and edited in Illustrator (Adobe Inc.).
 
 ## Figure 4
-Created with Illustrator (Adobe Inc.)
+Values calculated in Prism (GraphPad Inc.) and images created with Illustrator (Adobe Inc.)
